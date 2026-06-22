@@ -16,5 +16,4 @@ Model 1: ASL Alphabet Recognition
 
 <img width="671" height="278" alt="image" src="https://github.com/user-attachments/assets/f1d1b776-ab0a-4e6a-af0a-b27673a053df" />
 
-
 * The model achieved a final training accuracy of 98.40%,This means that on the training set, the model correctly classified 98.40% of the sign language gestures. We have used the Categorical-cross entropy as the loss function the training loss of was almost 0.0554 average across all samples in batch or epoch.The model's performance on unseen data, evaluated using the validation set, is even more promising as it achieved a validation accuracy of 99%.
