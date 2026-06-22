@@ -4,7 +4,7 @@ This project develops two independent, deep-learning-based sign-to-text translat
 Languages and Tools:
 
 Python,Numpy,Tensor Flow,Open Cv,Media Pipe,Java
-
+ 
 Model 1: ASL Alphabet Recognition
 
 * This model utilizes a Convolutional Neural Network (CNN) to recognize individual ASL hand signs from images or video frames.
